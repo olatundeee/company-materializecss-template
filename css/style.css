@@ -1,0 +1,99 @@
+.header-two {
+    background-image: url(../images/business-woman.jpg);
+    background-size: cover;
+    height: 630px;
+    padding: 100px;
+}
+
+.home-icon-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.actual-home-icon {
+    font-size: 36px;
+    padding-top: 25px;
+}
+
+.serve-icon {
+    margin: 200px;
+    height: 250px;
+}
+
+.abt-section {
+    padding: 50px;
+}
+
+.blog-post-col {
+    margin: 5px !important;
+    width: 315px !important; 
+}
+
+.container.blog-post-area {
+    width: 1000px;
+}
+
+.blog-post-section {
+    padding: 100px;
+}
+
+.sec-blog-header {
+    margin: 50px;
+}
+
+.partner-area {
+    background-image: url(../images/rocky-background.jpg);
+    background-size: cover;
+    height: 500px;
+}
+
+.partner-area-upper {
+    margin-bottom: 150px;
+}
+
+.page-footer-content {
+    margin-top: 120px;
+    height: 300px;
+}
+
+.footer-col {
+    margin: 50px;
+}
+
+.carousel-slide-in {
+    height: 500px;
+    padding: 75px;
+}
+
+.progress-bar {
+    margin: 20px;
+}
+
+.meet-team {
+    margin: 100px 100px;
+}
+
+.service-col {
+    margin: 40px;
+}
+
+.portfolio-area {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.portfolio-cards {
+    margin: 15px 5px 5px 5px;
+}
+
+.contact-area {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 700px;
+}
+
+.contact-col {
+    margin-top: 100px;
+}
